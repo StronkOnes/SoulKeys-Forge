@@ -1,0 +1,6 @@
+{
+  "name": "SoulKeys Forge",
+  "description": "Professional virtual instrument and harmonic workstation for soulful electric keys, warm chord layers, atmospheric pads, and expressive chord progressions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
